@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+<h2>Information</h2>
 
-You can use the [editor on GitHub](https://github.com/gongyan1/gy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p>Yan Gong<br/>Autonomous Driving | Multimodal Fusion | Thermal Image<br/>School of Vehicle and Mobility, Tsinghua University, China (Research Assistant) <br/>School of Computer Science and Engineering, Northeastern University, China (Postgraduate Student)<br/>Email: gongyan2020@foxmail.com / gongyan1998@gmail.com  </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<hr/>
 
-### Markdown
+<h3>Publication</h3>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<ol><li>Multi-Modal Attention Guided Real-Time Lane Detection<br/>Xinyu Zhang*, <strong>Yan Gong</strong> (Co-first author), Zhiwei Li, Xuan Liu, Yiqian Lu, Jun Li<br/>Under Review by IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), 2020  </li><li>SkipCrossNet: Adaptive Fusion for Road Segmentation<br/>Xinyu Zhang*, Zhenhong Zou (Co-first author), Dafeng Jin, <strong>Yan Gong</strong>, Zhiwei Li, Jun Li<br/>Under Review by IEEE Transactions on Intelligent Transportation Systems, 2020  </li></ol>
 
-```markdown
-Syntax highlighted code block
+<hr/>
 
-# Header 1
-## Header 2
-### Header 3
+<h3>Patent</h3>
 
-- Bulleted
-- List
+<ol><li>The invention relates to a method of wearing condition detection and identification of labor protection articles based on Deep Learning, 202010197049.6, 2020  </li><li>The invention relates to a lane detection method and terminal equipment based on attention mechanism in fusion network, 2020108174670, 2020  </li></ol>
 
-1. Numbered
-2. List
+<hr/>
 
-**Bold** and _Italic_ and `Code` text
+<h3>Honor</h3>
 
-[Link](url) and ![Image](src)
-```
+<hr/>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<h3>Skill</h3>
 
-### Jekyll Themes
+<p>Language: Chinese, English<br/>Programming: Python, MATLAB, C++, HTML<br/>Tools: PyTorch, TensorRT, OpenCV, PCL, LaTeX, Markdown, Git  </p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gongyan1/gy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<hr/>
