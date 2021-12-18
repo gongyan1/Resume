@@ -28,6 +28,16 @@
     <div class="hidden" style="display:none"> Abstract: Multi-modal sensor fusion techniques have promoted the development of autonomous driving, while perception in the complex environment remains a challenging problem. In order to tackle the problem, we propose the Open Multi-modal Perception dataset (OpenMPD), a multi-modal perception benchmark objected at difficult examples. Compared with existing datasets, OpenMPD focuses more on those complex traffic scenes in urban areas with overexposure or darkness, crowded environment, unstructured roads and intersections. It acquires the multi-modal data through a vehicle with six cameras and four LiDAR for a 360-degree field of view and collected 180 clips of 20-second synchronized images at 20Hz and point clouds at 10Hz. Particularly, we applied a 128-beam LiDAR to provide Hi-Res point clouds to better understand the 3D environment and sensor fusion. We sampled 15K keyframes at equal intervals from clips for annotations, including 2D/3D object detections, 3D object tracking, and 2D semantic segmentation. Moreover, we provide four benchmarks for all tasks to evaluate algorithms and conduct extensive experiments of 2D/3D detection and segmentation on OpenMPD. Data and further information are available at http://www.openmpd.com/.</div>
   
   
+   <li>Channel Attention in LiDAR-camera Fusion for Lane Line Segmentation<br/> 
+    Xinyu Zhang, ZhiweiLi, Xin Gao, Dafeng Jin, Jun Li<br/> 
+    Pattern Recognition, 2021, Accepted<br/> 
+    Contribution: Code
+  </li>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0031320321002077" class="aaa">PDF</a>  <a href="" class="aaa">Code</a>   <button class="button">More details</button>  
+    <div class="hidden" style="display:none"> Abstract: To assess the contributions of the different feature channels of sensors, we introduce a novel multimodal fusion method and demonstrate its practical utility using LiDAR-camera fusion networks. Specifically, a channel attention module that can be easily added to a fusion segmentation network is proposed. In this module, we use the channel attention mechanism to obtain the cross-channel local interaction information, and the weights of feature channels are assigned to represent the contributions of different feature channels. To verify the effectiveness of the proposed method, we conduct experiments on two types of feature fusion with the KITTI benchmark and A2D2 dataset. Our model achieves precise edge segmentation, with a 5.59% gain in precision and a 2.12% gain in F2-score compared to the values of the original fusion method. We believe that we have introduced a new optimization idea for multimodal fusion.</div>
+  
+  
+  
   <li>SkipCrossNets: Adaptive Fusion for road detection<br/> 
     Zhiwei Li, <b>Yan Gong</b>(Co-first author), Xinyu Zhang*, Zhenhong Zou, Dafeng Jin and Jun Li <br/> 
     IEEE Transactions on Intelligent Transportation Systems, 2021, Under Second Review<br/> 
@@ -47,7 +57,13 @@
 Our work provides new ideas for lane detection in extreme weather conditions like fog and rain since the vibration signal on lane is less likely to be influenced by them, also for the lane detection task in changing lanes scene. We use our fusion strategy to improved performance of lane detection model based on semantic segmentation, and propose <i>VBLaneNet: The vibration-based lane detection network</i>. The model was evaluated on our own dataset <i>VBLane: The vibration-based dataset for lane detection</i>, which contains both vibration signals and visual images. The results(recall(96.29%), F1(95.43%), mIOU(91.38%)) show that our model outperforms the current state-of-the-art lane detection methods based on semantic segmentation. Compared with our baseline, our strategy performs better in the detection of lane line pixels and has almost no effect on the speed of the model(only about 3 FPS slower), which also verifies that our method is easy to use and deployable.</div>
   
   
-
+ <li>A Feature Aggregation Network for Multispectral Pedestrian Detection<br/> 
+    <b>Yan Gong</b>, Lu Wang* and Lisheng Xu
+    Applied Intelligence, 2021, Under Review<br/> 
+    Contribution: Idea, Code, Paper
+  </li>
+  <a href="" class="aaa">PDF</a>  <a href="" class="aaa">Code</a>   <button class="button">More details</button>  
+    <div class="hidden" style="display:none"> Abstract: Pedestrian detection is an important task in many computer vision applications. Since multispectral pedestrian detection can alleviate the difficulties of insufficient illumination at night, it has been rapidly developed in recent years. However, the way for effective color-thermal image fusion still needs further research. In this paper, we propose a Feature Aggregation Module (FAM) that can adaptively capture the cross-channel and cross-dimensional information interaction of the two modalities. In addition, we develop a Feature Aggregation Network (FANet) that embeds the proposed FAM module into a two-stream network adapted from the YOLOv5. The FANet has the advantages that its size is small (15 MB) and it runs fast (8 ms per frame). Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition, for which the Miss Rate is only 8.91%. Moreover, we show that the saliency map computed from the thermal image can be incorporated into the FANet to further increase the detection accuracy. In order to verify the generalization ability of the FAM module, we have also conducted experiments on the person re-identification datasets, namely Market1501 and Duke. The performance of our FAM compares favorably against existing feature fusion mechanisms on the two datasets.</div>
   
 
   
