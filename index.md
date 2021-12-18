@@ -20,8 +20,8 @@
   
   
   <li>An Open Multimodal Perception Dataset For Autonomous Driving<br/> 
-    Xinyu Zhang, Zhiwei Li*, <strong>Yan Gong</strong>(Co-first author), Dafeng Jin, Jun Li, Li Wang, Yanzhang Zhu and Huaping Liu 
-    IEEE Transactions on Vehicular Technology, 2021, Accepted
+    Xinyu Zhang, Zhiwei Li*, <strong>Yan Gong</strong>(Co-first author), Dafeng Jin, Jun Li, Li Wang, Yanzhang Zhu and Huaping Liu <br/> 
+    IEEE Transactions on Vehicular Technology, 2021, Accepted<br/> 
     Contribution: Idea, Code, Paper
   </li>
   <a href="" class="aaa">PDF</a>  <a href="" class="aaa">Code</a>   <button class="button">More details</button>  
@@ -29,8 +29,8 @@
   
   
   <li>SkipCrossNets: Adaptive Fusion for road detection<br/> 
-    Zhiwei Li, <strong>Yan Gong(Co-first author)</strong>, Xinyu Zhang*, Zhenhong Zou, Dafeng Jin and Jun Li 
-    IEEE Transactions on Intelligent Transportation Systems, 2021, Under Second Review
+    Zhiwei Li, <strong>Yan Gong(Co-first author)</strong>, Xinyu Zhang*, Zhenhong Zou, Dafeng Jin and Jun Li <br/> 
+    IEEE Transactions on Intelligent Transportation Systems, 2021, Under Second Review<br/> 
     Contribution: Idea, Code, Paper
   </li>
   <a href="" class="aaa">PDF</a>  <a href="" class="aaa">Code</a>   <button class="button">More details</button>  
@@ -38,8 +38,8 @@
   
   
    <li>Vibration: Another vital Factor in Lane Detection<br/> 
-    Zhiwei Li, <strong>Yan Gong(Co-first author)</strong>, Xinyu Zhang, Liangyu Wang, Jun Li and Hao Shen,
-    IEEE International Conference on Robotics and Automation (ICRA), 2021, Under Review
+    Zhiwei Li, <strong>Yan Gong(Co-first author)</strong>, Xinyu Zhang, Liangyu Wang, Jun Li and Hao Shen<br/> 
+    IEEE International Conference on Robotics and Automation (ICRA), 2021, Under Review<br/> 
     Contribution: Idea, Code, Paper
   </li>
   <a href="" class="aaa">PDF</a>  <a href="" class="aaa">Code</a>   <button class="button">More details</button>  
