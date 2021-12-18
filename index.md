@@ -1,5 +1,8 @@
 <link rel="stylesheet" type="text/css" href="style.css">
+<style type="text/css">
 
+p {color: red}
+</style>
 
 <h2>Information</h2>
 
