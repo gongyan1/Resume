@@ -75,7 +75,21 @@ Our work provides new ideas for lane detection in extreme weather conditions lik
 
 <h3>Patent</h3>
 
-<ol><li>The invention relates to a method of wearing condition detection and identification of labor protection articles based on Deep Learning, 202010197049.6, 2020  </li><li>The invention relates to a lane detection method and terminal equipment based on attention mechanism in fusion network, 2020108174670, 2020  </li></ol>
+<ol>
+  
+  <li>
+    A lane detection method and terminal equipment based on attention mechanism. <br/>
+    CN111950467A, 2020, Accepted<br/>
+    Xxinyu Zhang, Zhiwei Li, Jun Li, Yan Gong, Xin Gao and Huaping Liu
+  </li>
+  
+  <li>
+    A method for detecting and identifying the wearing condition of labor insurance products based on deep learning.<br/>
+    CN202010197049.6, 2020, Under review <br/>
+    Yudong Liang, Yixiong Ning, <b>Yan Gong</b>, Jinhao Xie, Chao Zhang and Deyu Li
+  </li>
+
+</ol>
 
 <hr/>
 
