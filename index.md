@@ -76,13 +76,24 @@ Our work provides new ideas for lane detection in extreme weather conditions lik
 
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script type="text/javascript">
-var dnum = 0
-$(".button").click(function(){
-    dnum = dnum + 1;
-    if (dnum%2!=0){
-        $(".hidden").show()
+
+  
+
+button_list = $(".button")
+hidden_div = $(".hidden")
+len = button_list.length
+var arr = new Array(len).fill(0)
+
+button_list.each(function(i,e){
+    $(e).click(function(){
+    hidden_div.eq(i).show()
+    arr[i] = arr[i]+1
+    if (arr[i]%2!=0){
+        hidden_div.eq(i).show()
     } else {
-        $(".hidden").hide()
+        hidden_div.eq(i).hide()
     }
 })
+})
+  
 </script>
