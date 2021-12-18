@@ -1,3 +1,6 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
 <h2>Information</h2>
 
 <p>Yan Gong<br/>Autonomous Driving | Multimodal Fusion | Thermal Image<br/>School of Vehicle and Mobility, Tsinghua University, China (Research Assistant) <br/>School of Computer Science and Engineering, Northeastern University, China (Postgraduate Student)<br/>Email: gongyan2020@foxmail.com / gongyan1998@gmail.com  </p>
