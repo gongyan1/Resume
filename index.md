@@ -108,21 +108,27 @@ Our work provides new ideas for lane detection in extreme weather conditions lik
       <td>Research Assistant</td>
       <td><button class="button">Show</button></td>
     </tr>
-    <div class = "hidden"> Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition</div>
+    <tr class = "hidden" colspan="4" style="display:none">
+       Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition</div>
+    </tr>
     <tr>
         <td>2021.7~2021.11</td>
         <td>AI Research Institute, Jingdong </td>
         <td>Algorithm engineer </td>
         <td><button class="button">Show</button></td>
     </tr>
-  <div class = "hidden"> Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition</div>
+    <tr class = "hidden" colspan="4" style="display:none">
+       Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition</div>
+    </tr>
     <tr>
         <td>2021.11~2022.1</td>
         <td>Algorithm Development Product Department, Megvii</td>
         <td>Algorithm engineer </td>
         <td><button class="button">Show</button></td>
     </tr>
-  <div class = "hidden"> Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition</div>
+    <tr class = "hidden" colspan="4" style="display:none">
+       Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition</div>
+    </tr>
 </table>
 
 <hr/>
