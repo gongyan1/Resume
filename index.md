@@ -35,3 +35,21 @@
 <p>Language: Chinese, English<br/>Programming: Python, MATLAB, C++, HTML<br/>Tools: PyTorch, TensorRT, OpenCV, PCL, LaTeX, Markdown, Git  </p>
 
 <hr/>
+
+
+
+
+
+
+<script src="js/jquery-3.3.1.js"></script>
+<script type="text/javascript">
+var dnum = 0
+$(".button").click(function(){
+    dnum = dnum + 1;
+    if (dnum%2!=0){
+        $(".hidden").show()
+    } else {
+        $(".hidden").hide()
+    }
+})
+</script>
