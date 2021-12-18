@@ -25,6 +25,6 @@
 
 <h3>Skill</h3>
 
-<p style="color: red">Language: Chinese, English<br/>Programming: Python, MATLAB, C++, HTML<br/>Tools: PyTorch, TensorRT, OpenCV, PCL, LaTeX, Markdown, Git  </p>
+<p>Language: Chinese, English<br/>Programming: Python, MATLAB, C++, HTML<br/>Tools: PyTorch, TensorRT, OpenCV, PCL, LaTeX, Markdown, Git  </p>
 
 <hr/>
