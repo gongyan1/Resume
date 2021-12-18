@@ -11,7 +11,7 @@
 <ol>
   
   <li>Multi-Modal Attention Guided Real-Time Lane Detection<br/> 
-    Xinyu Zhang*, <strong>Yan Gong</strong> (Co-first author), Zhiwei Li, Xuan Liu, Yiqian Lu and Jun Li<br/>
+    Xinyu Zhang*, <b>Yan Gong</b> (Co-first author), Zhiwei Li, Xuan Liu, Yiqian Lu and Jun Li<br/>
     IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), 2020, Accepted, Best paper<br/>
     Contribution: Idea, Code, Paper
   </li>
@@ -20,7 +20,7 @@
   
   
   <li>An Open Multimodal Perception Dataset For Autonomous Driving<br/> 
-    Xinyu Zhang, Zhiwei Li*, <strong>Yan Gong</strong>(Co-first author), Dafeng Jin, Jun Li, Li Wang, Yanzhang Zhu and Huaping Liu <br/> 
+    Xinyu Zhang, Zhiwei Li*, <b>Yan Gong</b>(Co-first author), Dafeng Jin, Jun Li, Li Wang, Yanzhang Zhu and Huaping Liu <br/> 
     IEEE Transactions on Vehicular Technology, 2021, Accepted<br/> 
     Contribution: Idea, Code, Paper
   </li>
@@ -29,7 +29,7 @@
   
   
   <li>SkipCrossNets: Adaptive Fusion for road detection<br/> 
-    Zhiwei Li, <strong>Yan Gong(Co-first author)</strong>, Xinyu Zhang*, Zhenhong Zou, Dafeng Jin and Jun Li <br/> 
+    Zhiwei Li, <b>Yan Gong</b>(Co-first author), Xinyu Zhang*, Zhenhong Zou, Dafeng Jin and Jun Li <br/> 
     IEEE Transactions on Intelligent Transportation Systems, 2021, Under Second Review<br/> 
     Contribution: Idea, Code, Paper
   </li>
@@ -38,7 +38,7 @@
   
   
    <li>Vibration: Another vital Factor in Lane Detection<br/> 
-    Zhiwei Li, <strong>Yan Gong(Co-first author)</strong>, Xinyu Zhang, Liangyu Wang, Jun Li and Hao Shen<br/> 
+    Zhiwei Li, <b>Yan Gong</b>(Co-first author)</b>, Xinyu Zhang, Liangyu Wang, Jun Li and Hao Shen<br/> 
     IEEE International Conference on Robotics and Automation (ICRA), 2021, Under Review<br/> 
     Contribution: Idea, Code, Paper
   </li>
