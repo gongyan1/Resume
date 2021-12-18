@@ -12,7 +12,7 @@
 <ol>
   <li>Multi-Modal Attention Guided Real-Time Lane Detection<br/>Xinyu Zhang*, <strong>Yan Gong</strong> (Co-first author), Zhiwei Li, Xuan Liu, Yiqian Lu, Jun Li<br/>Under Review by IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), 2020  </li>
   <a href="" class="aaa">PDF</a>  <a href="" class="aaa">Code</a> <button class="button">More details</button>  
-    <div class="hidden" style="display:none"> sdasdsadasdasdasdasdsadasdasdsadasdsadadasdsdasdas</div>sefy
+    <div class="hidden" style="display:none"> sdasdsadasdasdasdasdsadasdasdsadasdsadadasdsdasdas</div>
   
   <li>SkipCrossNet: Adaptive Fusion for Road Segmentation<br/>Xinyu Zhang*, Zhenhong Zou (Co-first author), Dafeng Jin, <strong>Yan Gong</strong>, Zhiwei Li, Jun Li<br/>Under Review by IEEE Transactions on Intelligent Transportation Systems, 2020  </li>
 
