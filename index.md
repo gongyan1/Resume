@@ -1,7 +1,5 @@
 <link rel="stylesheet" type="text/css" href="style.css">
-<style type="text/css">
-p {color: red}
-</style>
+
 
 <h2>Information</h2>
 
@@ -27,6 +25,6 @@ p {color: red}
 
 <h3>Skill</h3>
 
-<p>Language: Chinese, English<br/>Programming: Python, MATLAB, C++, HTML<br/>Tools: PyTorch, TensorRT, OpenCV, PCL, LaTeX, Markdown, Git  </p>
+<p style="color: red">Language: Chinese, English<br/>Programming: Python, MATLAB, C++, HTML<br/>Tools: PyTorch, TensorRT, OpenCV, PCL, LaTeX, Markdown, Git  </p>
 
 <hr/>
