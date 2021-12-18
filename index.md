@@ -80,7 +80,7 @@ Our work provides new ideas for lane detection in extreme weather conditions lik
   <li>
     A lane detection method and terminal equipment based on attention mechanism. <br/>
     CN111950467A, 2020, Accepted<br/>
-    Xxinyu Zhang, Zhiwei Li, Jun Li, Yan Gong, Xin Gao and Huaping Liu
+    Xxinyu Zhang, Zhiwei Li, Jun Li, <b>Yan Gong</b>, Xin Gao and Huaping Liu
   </li>
   
   <li>
