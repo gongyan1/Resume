@@ -93,6 +93,37 @@ Our work provides new ideas for lane detection in extreme weather conditions lik
 
 <hr/>
 
+<h3>Experience </h3>
+
+<table>
+    <tr>
+      <th>Time</th>
+      <th>Institution</th>
+      <th>Position</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>2020.4~Now</td>
+      <td>School of Vehicle and Mobility, Tsinghua University </td>
+      <td>Research Assistant</td>
+      <td>Show</td>
+    </tr>
+    <tr>
+        <td>2021.7~2021.11</td>
+        <td>AI Research Institute, Jingdong </td>
+        <td>Algorithm engineer </td>
+        <td>Show</td>
+    </tr>
+    <tr>
+        <td>2021.11~2022.1</td>
+        <td>Algorithm Development Product Department, Megvii</td>
+        <td>Algorithm engineer </td>
+        <td>Show</td>
+    </tr>
+</table>
+
+<hr/>
+
 <h3>Honor</h3>
 
 <hr/>
