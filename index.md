@@ -108,8 +108,10 @@ Our work provides new ideas for lane detection in extreme weather conditions lik
       <td>Research Assistant</td>
       <td><button class="button">Show</button></td>
     </tr>
-    <tr class = "hidden" colspan="4" style="display:none">
-       Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition</div>
+    <tr>
+        <td class = "hidden" colspan="4" style="display:none"> 
+            Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition
+        </td>
     </tr>
     <tr>
         <td>2021.7~2021.11</td>
@@ -117,8 +119,10 @@ Our work provides new ideas for lane detection in extreme weather conditions lik
         <td>Algorithm engineer </td>
         <td><button class="button">Show</button></td>
     </tr>
-    <tr class = "hidden" colspan="4" style="display:none">
-       Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition</div>
+    <tr>
+        <td class = "hidden" colspan="4" style="display:none"> 
+            Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition
+        </td>
     </tr>
     <tr>
         <td>2021.11~2022.1</td>
@@ -126,8 +130,10 @@ Our work provides new ideas for lane detection in extreme weather conditions lik
         <td>Algorithm engineer </td>
         <td><button class="button">Show</button></td>
     </tr>
-    <tr class = "hidden" colspan="4" style="display:none">
-       Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition</div>
+    <tr>
+        <td class = "hidden" colspan="4" style="display:none"> 
+            Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition.
+        </td>
     </tr>
 </table>
 
