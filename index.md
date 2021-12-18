@@ -106,20 +106,23 @@ Our work provides new ideas for lane detection in extreme weather conditions lik
       <td>2020.4~Now</td>
       <td>School of Vehicle and Mobility, Tsinghua University </td>
       <td>Research Assistant</td>
-      <td>Show</td>
+      <td><button class="button">Show</button></td>
     </tr>
+    <div class = "hidden"> Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition</div>
     <tr>
         <td>2021.7~2021.11</td>
         <td>AI Research Institute, Jingdong </td>
         <td>Algorithm engineer </td>
-        <td>Show</td>
+        <td><button class="button">Show</button></td>
     </tr>
+  <div class = "hidden"> Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition</div>
     <tr>
         <td>2021.11~2022.1</td>
         <td>Algorithm Development Product Department, Megvii</td>
         <td>Algorithm engineer </td>
-        <td>Show</td>
+        <td><button class="button">Show</button></td>
     </tr>
+  <div class = "hidden"> Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition</div>
 </table>
 
 <hr/>
