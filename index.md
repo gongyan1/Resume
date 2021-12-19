@@ -110,7 +110,7 @@ Our work provides new ideas for lane detection in extreme weather conditions lik
     </tr>
     <tr>
         <td class = "hidden fused_td" colspan="4" style="display:none"> 
-            Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition
+            <div class="td_div">Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition</div>
         </td>
     </tr>
     <tr>
@@ -121,7 +121,7 @@ Our work provides new ideas for lane detection in extreme weather conditions lik
     </tr>
     <tr>
         <td class = "hidden fused_td" colspan="4" style="display:none"> 
-            Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition
+            <div class="td_div">Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition</div>
         </td>
     </tr>
     <tr>
@@ -132,7 +132,7 @@ Our work provides new ideas for lane detection in extreme weather conditions lik
     </tr>
     <tr>
         <td class = "hidden fused_td" colspan="4" style="display:none"> 
-            Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition.
+            <div class="td_div">Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition.</div>
         </td>
     </tr>
 </table>
