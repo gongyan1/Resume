@@ -121,7 +121,8 @@ Our work provides new ideas for lane detection in extreme weather conditions lik
     </tr>
     <tr>
         <td class = "hidden fused_td" colspan="4" style="display:none"> 
-            <div class="td_div">Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition</div>
+            <div class="td_div">In Tsinghua University, I served as the leader of the perception group, including designing the neural network and the fusing various sensors in detail. We have made a lot of exploration on the fusion of LiDAR and visual image. LiDAR and image are in different data spaces and have different characteristics. By designing an effective fusion strategy, we can make up for the limitations of single sensor and improve the detection performance of lane detection. In addition, we found the application of vibration marking lines for lane detection for the first time. By designing the task-conditioned network, the vibration information and visual images can be well fused. Now, we are studying how to combine the underlying sensors of the car with the neural network.
+          </div>
         </td>
     </tr>
     <tr>
@@ -132,7 +133,7 @@ Our work provides new ideas for lane detection in extreme weather conditions lik
     </tr>
     <tr>
         <td class = "hidden fused_td" colspan="4" style="display:none"> 
-            <div class="td_div">Extensive experiments on the KAIST dataset show that the proposed method is effective for multispectral pedestrian detection, especially in the nighttime condition.</div>
+            <div class="td_div">For the AI Academy of Megvii, I am responsible for designing experiments and a series of high-quality deep learning courses by using self-developed deep learning framework MegEngine and MegStudio. The details include the construction of some small demos, such as the classification task of ResNet in MNIST and business scenarios, and the detection task of RetinaNet on the COCO data set. The experience of course making has well precipitated the knowledge of deep learning.</div>
         </td>
     </tr>
 </table>
